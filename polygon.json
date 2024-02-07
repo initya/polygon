@@ -1,0 +1,56 @@
+{
+    "id": "polygon",
+    "description": "Polygon, previously known as Matic Network, is a Layer 2 scaling solution for Ethereum that aims to improve scalability and reduce transaction fees. It provides a framework for building and connecting Ethereum-compatible blockchain networks.",
+    "tags": [
+        "layer 2",
+        "scaling solution",
+        "ethereum-compatible"
+    ],
+    "coin_details": {
+        "name": "Polygon",
+        "symbol": "MATIC",
+        "logo": "logo/polygon.png",
+        "max_supply": "∞"
+    },
+    "official_links": {
+        "website": "https://polygon.technology/",
+        "whitepaper": "https://polygon.technology/papers/",
+        "documentation": "https://docs.polygon.technology/",
+        "explorer": "https://polygonscan.com/"
+    },
+    "social_platforms": {
+        "twitter": "https://twitter.com/0xPolygon",
+        "reddit": "https://www.reddit.com/r/maticnetwork/"
+    },
+    "data_aggregator": [
+        {
+            "name": "CoinMarketCap",
+            "url": "https://coinmarketcap.com/currencies/polygon/"
+        },
+        {
+            "name": "CoinGecko",
+            "url": "https://www.coingecko.com/en/coins/polygon"
+        }
+    ],
+    "wallets": [
+        {
+            "name": "MetaMask",
+            "type": "browser or mobile (supports Polygon)",
+            "url": "https://metamask.io/"
+        },
+        {
+            "name": "MyEtherWallet",
+            "type": "hardware or software (supports Polygon)",
+            "url": "https://www.myetherwallet.com/"
+        }
+        // Add more wallets if needed
+    ],
+    "development_tools": [
+        {
+            "name": "Truffle",
+            "description": "A popular and widely used development framework for Ethereum (supports Polygon)",
+            "url": "https://truffle.io/"
+        },
+        // Add more development tools if needed
+    ]
+}
